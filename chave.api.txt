@@ -1,0 +1,2 @@
+
+mongodb+srv://nandev:<db_password>@cluster0.gbs7o.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
